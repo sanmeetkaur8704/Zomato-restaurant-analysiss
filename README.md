@@ -12,6 +12,9 @@ zomato data file.xlsx – Raw dataset used for analysis
 ZOMATO DATA ANALYSIS DASHBOARD.pbit – Power BI template file containing the complete dashboard
 
 
+
+
+
 DASHBOARD FEATURES:-
 
 *Interactive slicers for city, country, and cuisine
@@ -23,6 +26,8 @@ DASHBOARD FEATURES:-
 *Drill-down analysis for better insights
 
 
+
+
 PURPOSE OF THE PROJECT :-
 
 This project was created to demonstrate-
@@ -31,6 +36,8 @@ This project was created to demonstrate-
 *Dashboard designing ability
 
 *Business insight generation using real-world data
+
+
 
 
 KEY INSIGHTS :-
