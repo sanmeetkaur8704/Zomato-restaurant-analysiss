@@ -5,20 +5,26 @@ This project presents an interactive Power BI dashboard created using Zomato’s
 
 Files Included :
 zomato data file.xlsx – Raw dataset used for analysis
+
 ZOMATO DATA ANALYSIS DASHBOARD.pbit – Power BI template file containing the complete dashboard
 
 Dashboard Features :
 
 *Interactive slicers for city, country, and cuisine
+
 *Dynamic charts and KPIs
+
 *Clean and user-friendly layout
+
 *Drill-down analysis for better insights
 
 Purpose of the Project :
 
 This project was created to demonstrate-
 *Data analysis skills
+
 *Dashboard designing ability
+
 *Business insight generation using real-world data
 
 
