@@ -1,18 +1,18 @@
-Zomato Data Analysis Dashboard (Power BI)
+ZOMATO RESTAURANT ANALYSIS POWER BI PROJECT
 
 
-Project Overview :-
+PROJECT OVERVIEW:-
 This project presents an interactive Power BI dashboard created using Zomato’s raw dataset. The dashboard provides meaningful insights into restaurant distribution, ratings, pricing, cuisines, and customer preferences across different locations. It is designed to help stakeholders understand food trends and make data-driven decisions.
 
 
-Files Included :-
+FILES INCLUDED :-
 
 zomato data file.xlsx – Raw dataset used for analysis
 
 ZOMATO DATA ANALYSIS DASHBOARD.pbit – Power BI template file containing the complete dashboard
 
 
-Dashboard Features :-
+DASHBOARD FEATURES:-
 
 *Interactive slicers for city, country, and cuisine
 
@@ -23,7 +23,7 @@ Dashboard Features :-
 *Drill-down analysis for better insights
 
 
-Purpose of the Project :-
+PURPOSE OF THE PROJECT :-
 
 This project was created to demonstrate-
 *Data analysis skills
@@ -33,7 +33,7 @@ This project was created to demonstrate-
 *Business insight generation using real-world data
 
 
-Key Insights :-
+KEY INSIGHTS :-
 
 *Restaurant Distribution Analysis:
 Identifies the number of restaurants across different countries and cities, highlighting regions with the highest food service concentration.
