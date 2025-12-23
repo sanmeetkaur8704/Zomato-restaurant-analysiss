@@ -7,9 +7,7 @@ This project presents an interactive Power BI dashboard created using Zomato’s
 
 FILES INCLUDED :-
 
-zomato data file.xlsx – Raw dataset used for analysis
-
-ZOMATO DATA ANALYSIS DASHBOARD.pbit – Power BI template file containing the complete dashboard
+zomato data file.xlsx – Raw dataset used for analysis and "ZOMATO DATA ANALYSIS DASHBOARD.pbit" – Power BI template file containing the complete dashboard
 
 
 
